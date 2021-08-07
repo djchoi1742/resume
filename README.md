@@ -1,3 +1,3 @@
 # Dongjun Choi
 
-## Researcher (Seoul National University Bundang Hospital)
+### Researcher (Seoul National University Bundang Hospital)
